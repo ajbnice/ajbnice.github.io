@@ -46,10 +46,10 @@ Twitter - @TimonOlsthoorn
 
 
 // changed const to var for IE9/10 compatibity.
-var VERSION_CHECK_SUPPORTED = "Your iOS version is supported! &#x1f60a;";
-var VERSION_CHECK_NEEDS_UPGRADE = "Requires at least iOS %s &#x1f615;";
-var VERSION_CHECK_UNCONFIRMED = "Not yet tested on iOS %s &#x1f601;";
-var VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s &#x1f61e;";
+var VERSION_CHECK_SUPPORTED = "<i id='support' class='fa fa-check-circle' aria-hidden='true'></i>"+"&nbsp"+"<span>Your iOS version is supported!</span>";
+var VERSION_CHECK_NEEDS_UPGRADE = "<i id='least' class='fa fa-times-circle' aria-hidden='true'></i>"+"&nbsp"+"<span>Requires at least iOS %s</span>";
+var VERSION_CHECK_UNCONFIRMED = "<i id='untest' class='fa fa-question-circle' aria-hidden='true'></i>"+"&nbsp"+"<span>Not yet tested on iOS %s</span>";
+var VERSION_CHECK_UNSUPPORTED = "<i id='only' class='fa fa-minus-circle' aria-hidden='true'></i>"+"&nbsp"+"<span>Only compatible with iOS %s to %s</span>";
 
 function ios_version_check(minIOS,maxIOS,otherIOS,callBack) {
 	"use strict";
