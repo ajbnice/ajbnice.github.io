@@ -1,18 +1,23 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Find me on Twitter</name>
-			<url>https://twitter.com/zeekforit</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>Facebook</name>
+			<url>https://facebook.com/fbdvanh</url>
+			<iconclass>fa fa-facebook</iconclass>
 		</link>
 		<link>
-			<name>Send me an email</name>
-			<url>mailto:zeekforit@gmail.com</url>
+			<name>Email</name>
+			<url>mailto:maildva1999@gmail.com</url>
 			<iconclass>fa fa-envelope-open</iconclass>
 		</link>
 		<link>
+			<name>Momo</name>
+			<url>https://nhantien.momo.vn/0971492399</url>
+			<iconclass>fa fa-coffee</iconclass>
+		</link>
+		<link>
 	    <name>Buy me a coffee/beer</name>
-	    <url>https://www.paypal.me/zeekforit</url>
+	    <url>https://www.paypal.com/ppvda</url>
 			<iconclass>fa fa-paypal</iconclass>
 	  </link>
 	</footerlinks>
