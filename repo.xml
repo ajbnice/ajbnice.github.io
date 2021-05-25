@@ -1,14 +1,24 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
+			<name>Follow me on Facebook</name>
+			<url>https://www.facebook.com/100010169232179</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<name>Follow me on Youtube</name>
+			<url>https://www.youtube.com/channel/UCw1G8IanhLQH3jgGnESv97g</url>
+			<iconclass>fa fa-youtube</iconclass>
+		</link>
+		<link>
+			<name>Follow me on Instagram</name>
+			<url>https://www.instagram.com/igdvanh/</url>
+			<iconclass>fa fa-instagram</iconclass>
+		</link>
+		<link>
+			<name>Follow me on Tiktok</name>
+			<url>https://www.tiktok.com/@anh_ang</url>
+			<iconclass>fa fa-tiktok</iconclass>
 		</link>
 	</footerlinks>
 </repo>
