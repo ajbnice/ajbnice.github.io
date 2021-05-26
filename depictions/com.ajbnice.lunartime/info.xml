@@ -1,0 +1,11 @@
+﻿<package>
+	<id>com.ajbnice.lunartime</id>
+	<name>Lunartime fix</name>
+	<version>1.0.1</version>
+	<descriptionlist>
+		<description>Add LunarCalender.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Version 1.0.1</change>
+	</changelog>
+</package>

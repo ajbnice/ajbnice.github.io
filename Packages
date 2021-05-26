@@ -78,3 +78,18 @@ SHA256: 06481c35bce8e5cf207a3057353cab805e0eb48169064e92a6e186e9b6e87ee2
 Depiction: https://ajbnice.github.io/depictions/?p=com.ajbnice.allowtouchesonpagedots
 Name: AllowTouchesOnPageDots
 
+Package: com.ajbnice.lunartime
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Add LunarCalender.
+Depends: mobilesubstrate
+Section: Tweaks
+Author: fahlnbg
+Maintainer: DVA <@ajbnice>
+Filename: ./deb/com.ajbnice.lunartime_0.1fix_iphoneos-arm.deb
+Size: 160
+MD5sum: B580EAF6657B4EC22BE4F0F4D28B4E40
+SHA1: 9C45B8952BDA74FE43A172F4CF86A242101AD570
+SHA256: 2e29df29e3878fd9783de8b510f1b1884b9086c7e0739272283159d139ee8ec6
+Depiction: https://ajbnice.github.io/depictions/?p=com.ajbnice.lunartime
+Name: LunarTime fix
